@@ -38,18 +38,32 @@ Data laporan akan dikelola oleh pihak berwenang melalui sistem backend yang mend
 
 ---
 
+## 🧩 Fitur yang Diimplementasikan
+
+| Fitur             | Deskripsi                                                                 |
+|-------------------|---------------------------------------------------------------------------|
+| 📦 **Database (Room)** | Menyimpan data pengguna dan cache data laporan secara lokal.               |
+| 🧱 **Fragment**        | Digunakan untuk membangun struktur UI modular (Dashboard, Form, dll).     |
+| 📡 **BroadcastReceiver** | Mendeteksi status jaringan & baterai secara real-time.                      |
+| 🔊 **Service**         | Memutar suara saat aplikasi dibuka dan ketika laporan berhasil dikirim. |
+
+---
+
 ## 🧱 Teknologi yang Digunakan
 
-### Android (Java)
+### 📱 Android (Java)
 - Activity & Fragment Lifecycle
 - RecyclerView
+- Room Database
 - Retrofit (Networking)
 - Volley (Upload Multipart)
 - SharedPreferences (Auth Token)
 - Glide (Image Loader)
-- Intent, Bundle, dan DatePicker
+- BroadcastReceiver (Network & Battery)
+- Service (Audio Feedback)
+- Intent, Bundle, DatePicker
 
-### Backend (REST API)
+### 🌐 Backend (REST API)
 - Express.js
 - MongoDB
 - Multer (Image Upload)
@@ -60,10 +74,20 @@ Data laporan akan dikelola oleh pihak berwenang melalui sistem backend yang mend
 
 ## 🧑‍💻 Tim Pengembang
 
-| Nama         | NIM                   |
-|--------------|--------------------------|
-| Almira Putri Wibowo       | L200220068 |
-| Diah Ayu Susilowati         | L200220066       |
-| Luthfiana Azzalea Afifah   | L200220052        |
+| Nama                         | NIM         |
+|------------------------------|-------------|
+| Almira Putri Wibowo          | L200220068  |
+| Diah Ayu Susilowati          | L200220066  |
+| Luthfiana Azzalea Afifah     | L200220052  |
 
 ---
+
+## 📷 Screenshot Aplikasi
+
+![image](https://github.com/user-attachments/assets/9bf78067-5f53-4703-be92-25d862996354)
+
+---
+
+## 📌 Lisensi
+
+Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan. Semua hak cipta sepenuhnya milik tim pengembang.
