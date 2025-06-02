@@ -74,11 +74,11 @@ Data laporan akan dikelola oleh pihak berwenang melalui sistem backend yang mend
 
 ## 🧑‍💻 Tim Pengembang
 
-| Nama                         | NIM         |
-|------------------------------|-------------|
-| Almira Putri Wibowo          | L200220068  |
-| Diah Ayu Susilowati          | L200220066  |
-| Luthfiana Azzalea Afifah     | L200220052  |
+| Nama                         | NIM         |GitHub         |
+|------------------------------|-------------|---------------|
+| Almira Putri Wibowo          | L200220068  |https://github.com/AlmiraPutriW|
+| Diah Ayu Susilowati          | L200220066  |https://github.com/dhayyue|
+| Luthfiana Azzalea Afifah     | L200220052  |https://github.com/ums-l200220052|
 
 ---
 
